@@ -7,7 +7,7 @@
 #' @keywords package
 NULL
 #####################################################################################
-#' @name AddHealth
+#' @name AddHealth.
 #' @title Adolescent to Adult Health (Wave I)
 #' @aliases AddHealth
 #' @docType data
